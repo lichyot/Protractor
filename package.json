@@ -1,0 +1,33 @@
+{
+  "name": "test-protractor",
+  "version": "1.0.0",
+  "description": "Tests do SGPD",
+  "main": "protractor.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "~1.4.3",
+    "eslint": "^4.9.0",
+    "jasmine-fail-fast": "^2.0.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "moment": "^2.22.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "faker": "4.1.0",
+    "eslint-config-google": "^0.9.1",
+    "jsdom": "^9.12.0",
+    "mocha": "^3.0.0",
+    "protractor": "^5.3.1",
+    "protractor-flake": "^3.2.0",
+    "protractor-helper": "^3.2.6",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "supertest": "^3.0.0",
+    "webdriverio": "^4.2.3",
+    "path": "0.12.7"
+  },
+  "author": "Douglas",
+  "license": "ISC"
+}
